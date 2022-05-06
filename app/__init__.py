@@ -1,1 +1,1 @@
-from .app import AppMode, APP_MODE, RESOURCE_PATH
+from .app import AppMode, APP_MODE, CONFIG_PATH, RESOURCE_PATH
